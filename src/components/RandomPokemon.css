@@ -1,0 +1,148 @@
+* {
+padding: 0;
+margin: 0;
+/*overflow-x: hidden/*/
+}
+
+.randompokemon-container {
+width: 100vw;
+/*background-color: aqua;*/
+}
+
+.randompokemon-container-title {
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+color: #12171a;
+}
+
+.randompokemon-container-filter {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100vw;
+height: 40px;
+margin-bottom: 20px;
+/*background-color: brown*/
+}
+
+.randompokemon-container-filter-teamsize {
+padding-right: 10px;
+font-weight:500;
+position: flex;
+}
+
+.randompokemon-container-filter-teamsize input{
+margin-left: 15px;
+margin-right: 3px;
+accent-color: #12171a;
+}
+
+
+.randompokemon-container-list-buttom {
+display: flex;
+justify-content: center;
+
+/*background-color: aqua;*/
+}
+
+.randompokemon-container-list-buttom button {
+width: 200px;
+height: 40px;
+border-radius: 5px;
+border: none;
+background-color: #12171a;
+font-size: 16px;
+color: #fff;
+box-shadow: 0px 0px 5px -2px rgba(0,0,0,0.25);
+cursor: pointer;
+}
+
+.randompokemon-container-grid {
+display: grid;
+justify-items: center;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 160px;
+padding-right: 160px;
+gap: 10px;
+/*background-color: coral;*/
+grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 1285px) {
+.randompokemon-container-grid {
+    padding-left: 30px;
+    padding-right: 30px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (max-width: 1050px) {
+.randompokemon-container-grid {
+    padding-left: 160px;
+    padding-right: 160px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 955px) {
+.randompokemon-container-grid {
+    padding-left: 110px;
+    padding-right: 110px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 850px) {
+.randompokemon-container-grid {
+    padding-left: 80px;
+    padding-right: 80px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 800px) {
+.randompokemon-container-grid {
+    padding-left: 30px;
+    padding-right: 30px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 690px) {
+.randompokemon-container-grid {
+    padding-left: 10px;
+    padding-right: 10px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 660px) {
+.randompokemon-container-grid {
+    padding-left: 0px;
+    padding-right: 0px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 645px) {
+.randompokemon-container-grid {
+    padding-left: 0px;
+    padding-right: 0px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.randompokemon-container-list-loading {
+font-weight: lighter;
+text-align: center;
+padding-top: 10px;
+}

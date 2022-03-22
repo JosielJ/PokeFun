@@ -1,0 +1,109 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+.pokelist-container {
+width: 100vw;
+/*background-color: aqua;*/
+}
+
+.pokelist-container-title {
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+color: #12171a;
+}
+
+.pokelist-container-filter {
+width: 100vw;
+height: 150px;
+/*background-color: brown*/
+}
+
+.pokelist-container-grid {
+display: grid;
+justify-items: center;
+gap: 10px;
+padding-left: 160px;
+padding-right: 160px;
+/*background-color: coral;*/
+grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 1285px) {
+    .pokelist-container-grid {
+    padding-left: 30px;
+    padding-right: 30px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (max-width: 1050px) {
+    .pokelist-container-grid {
+    padding-left: 160px;
+    padding-right: 160px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 955px) {
+    .pokelist-container-grid {
+    padding-left: 110px;
+    padding-right: 110px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 850px) {
+    .pokelist-container-grid {
+    padding-left: 80px;
+    padding-right: 80px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 800px) {
+    .pokelist-container-grid {
+    padding-left: 30px;
+    padding-right: 30px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 690px) {
+    .pokelist-container-grid {
+    padding-left: 10px;
+    padding-right: 10px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 660px) {
+    .pokelist-container-grid {
+    padding-left: 0px;
+    padding-right: 0px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 645px) {
+    .pokelist-container-grid {
+    padding-left: 0px;
+    padding-right: 0px;
+    /*background-color: coral;*/
+    grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.pokelist-container-list-loading {
+font-weight: lighter;
+text-align: center;
+padding-top: 10px;
+}
