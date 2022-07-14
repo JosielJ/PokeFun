@@ -2,29 +2,57 @@
 
 <hr>
 
-# React com Pokeapi
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+</p>
 
-### Um site feito para treinar React e uso de API's
-Foi usado nesse projeto:
-<br>
-React - Biblioteca JavaScript
-<br>
-Framer Motion - Biblioteca de animações para React
-<br>
-React Icons - Icones para usar em projetos React
-<br>
-Pokeapi - API de Pokémon com todos os Pokémons 
-<br>
-##
-<br>
-<b>Autoavaliação:</b>
-<br>
-Estética: 3/5
-<br>
-Tecnologia: 4/5
-<br>
-Responsividade: 4/5
-<br>
-<div>
-  <h4>Link: https://pokefun.netlify.app/ <a href="https://pokefun.netlify.app/" label="_blank"></a></h4>
-</div>
+### Um site feito para treinar React e uso de API's.
+
+### Tópicos:
+
+- [Descrição do projeto](#descrição)
+
+- [Funcionalidades](#funcionalidades)
+
+- [Aplicação](#aplicação)
+
+- [Ferramentas utilizadas](#ferramentas)
+
+- [Acesso ao projeto](#acesso)
+
+- [Como foi trabalhar nesse projeto](#projeto)
+
+## Descrição do projeto
+
+<p align="justify">
+Projeto em desenvolvido para treinar React,js e uso externo de API's.
+
+O projeto conta com uma Pokédex completa, um criador de time Pokémon e um jogo de adivinhação, tudo gerado dinamicamente com uso de componentes do React.js e consumo de [API Externa](https://pokeapi.co/).
+
+![Tela Inicial.]()
+</p>
+
+## Funcionalidades
+
+:heavy_check_mark: `Funcionalidade 1:` Listar todos os pokémons existêntes por ordem, mostrar o nome, imagem e tipo(s) do pokémon.
+
+:heavy_check_mark: `Funcionalidade 2:` Cria aleatoriamente um time de 1 até 6 pokémons.
+
+:heavy_check_mark: `Funcionalidade 3:` Um jogo de adivinhar o nome dos pokémons com contagem de pontos e timer.
+
+## Ferramentas utilizadas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+
+###
+
+## Acesso ao projeto
+
+Você pode [acessar o código fonte do projeto](https://github.com/JosielJ/PokeFun/) ou [ver o acessar o site](https://pokefun.netlify.app/).
