@@ -14,13 +14,11 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [Aplicação](#aplicação)
-
 - [Ferramentas utilizadas](#ferramentas)
 
 - [Acesso ao projeto](#acesso)
 
-- [Como foi trabalhar nesse projeto](#projeto)
+- [Como foi trabalhar nesse projeto](#como-foi-trabalhar-nesse-projeto)
 
 ## Descrição do projeto
 
@@ -42,17 +40,19 @@ O projeto conta com uma Pokédex completa, um criador de time Pokémon e um jogo
 
 ## Ferramentas utilizadas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 
 ###
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/JosielJ/PokeFun/) ou [ver o acessar o site](https://pokefun.netlify.app/).
+Você pode [ver o código fonte do projeto](https://github.com/JosielJ/PokeFun/) ou [acessar o site](https://pokefun.netlify.app/).
+
+## Como foi trabalhar nesse projeto
