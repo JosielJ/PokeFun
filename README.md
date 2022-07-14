@@ -10,13 +10,13 @@
 
 ### Tópicos:
 
-- [Descrição do projeto](#descrição)
+- [Descrição do projeto](#descrição-do-projeto)
 
 - [Funcionalidades](#funcionalidades)
 
-- [Ferramentas utilizadas](#ferramentas)
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso)
+- [Acesso ao projeto](#acesso-ao-projeto)
 
 - [Como foi trabalhar nesse projeto](#como-foi-trabalhar-nesse-projeto)
 
