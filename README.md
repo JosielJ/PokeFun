@@ -59,5 +59,5 @@ Você pode [ver o código-fonte do projeto](https://github.com/JosielJ/PokeFun/)
 ## Como foi trabalhar nesse projeto
    
 <p>
-No início eu tive dificuldade de usar a [PokéAPI](https://pokeapi.co/), mas com muito estudo e pesquisa eu consegui desenvolver todas as funcionalidades, depois implementei o uso de [React Router Dom](https://www.npmjs.com/package/react-router-dom) para ter múltiplas paginas, usei [Framer Motion](https://www.framer.com/motion/) para fazer animações e efeitos visuais e [React Icons](https://react-icons.github.io/react-icons/) para os ícones. O projeto ainda está sendo desenvolvido, a responsividade esta sendo finalizada e alguns bugs estão sendo corrigidos.
+No início eu tive dificuldade de usar a [PokéAPI](https://pokeapi.co/), mas com muito estudo e pesquisa eu consegui desenvolver todas as funcionalidades, depois implementei o uso de [React Router Dom](https://www.npmjs.com/package/react-router-dom) para ter múltiplas paginas, usei [Framer Motion](https://www.framer.com/motion/) para fazer animações e efeitos visuais e [React Icons](https://react-icons.github.io/react-icons/) [React Icons](https://react-icons.github.io/react-icons/) para os ícones. O projeto ainda está sendo desenvolvido, a responsividade esta sendo finalizada e alguns bugs estão sendo corrigidos.
 </p>
