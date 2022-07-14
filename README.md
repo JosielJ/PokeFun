@@ -1,6 +1,6 @@
-<img src="https://media.discordapp.net/attachments/844323169900167218/997271449469468763/logo.png" alt="PokéFun logo">
+![logo__PokéFun](https://media.discordapp.net/attachments/844323169900167218/997271449469468763/logo.png)
 
-### 
+<hr>
 
 # React com Pokeapi
 
