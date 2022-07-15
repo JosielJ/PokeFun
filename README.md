@@ -29,8 +29,8 @@ O projeto conta com uma Pokédex completa, um criador de time Pokémon e um jogo
 <p>
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1DUUkHp6MzyUpmLg-naLDUOpQb7XeOvJg/preview" frameborder="0" allowfullscreen="false"> </iframe>
-</figure>
+  <iframe src="https://drive.google.com/file/d/1DUUkHp6MzyUpmLg-naLDUOpQb7XeOvJg/preview" frameborder="0" allowfullscreen="false"> <iframe/>
+<figure/>
 
 ## Funcionalidades
 
