@@ -26,6 +26,7 @@
 Projeto em desenvolvido para treinar React.js e uso externo de API's.
 
 O projeto conta com uma Pokédex completa, um criador de time Pokémon e um jogo de adivinhação, tudo gerado dinamicamente com uso de componentes do React.js e consumo de [API Externa](https://pokeapi.co/).
+<p>
 
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1DUUkHp6MzyUpmLg-naLDUOpQb7XeOvJg/view?usp=sharing" frameborder="0" allowfullscreen="false"> </iframe>
