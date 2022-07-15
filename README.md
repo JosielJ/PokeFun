@@ -31,6 +31,10 @@ O projeto conta com uma Pokédex completa, um criador de time Pokémon e um jogo
 <div>
    <img src="https://i.imgur.com/BEfSy73.gif"/>
 <div/>
+   
+<iframe class="imgur-embed" width="100%" height="1080" frameborder="0" src="https://i.imgur.com/BEfSy73.gifv#embed"></iframe>
+   
+![Imgur](https://i.imgur.com/BEfSy73.gifv)
 
 ## Funcionalidades
 
