@@ -29,9 +29,7 @@ O projeto conta com uma Pokédex completa, um criador de time Pokémon e um jogo
 <p>
      
 <div align="center">
-
-   ![PokéFun](https://i.imgur.com/BEfSy73.gif)
-
+   <img src="https://i.imgur.com/BEfSy73.gif"/>
 </div>
 
 ## Funcionalidades
